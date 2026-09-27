@@ -7,6 +7,8 @@
 
 - ⛓️ I also work on the blockchain side: **Solidity**, **Yul / inline assembly** and the **EVM**
 
+- 🌐 Portfolio: **[ccir105.github.io](https://ccir105.github.io)**
+
 - 📫 How to reach me **sisnet2010@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
